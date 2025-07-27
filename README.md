@@ -80,6 +80,8 @@ Created multiple visualizations including:
     •	Pandas, Matplotlib, Seaborn, Plotly
     •	Jupyter Notebook
 
+**Click here to see the interactve dashboards https://public.tableau.com/app/profile/michael.mumina/viz/Phase1-Project_17535942776270/Executve_dashboard?publish=yes
+
 **Contact
 
 For questions, contact Michael Mumina Kasimu at donmumina@gmail.com
